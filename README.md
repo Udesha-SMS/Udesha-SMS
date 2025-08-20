@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udesha-sms&label=Profile%20views&color=0e75b6&style=flat" alt="udesha-sms" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **shamithud20@gmail.com**
 
