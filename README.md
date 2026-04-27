@@ -21,40 +21,8 @@
 </p>
 
 
-
-
-I have a GitHub README file where my skills are currently listed vertically as a bullet list.
-
-Please modify this section so that the skills are displayed horizontally instead of vertically. You can use Markdown, HTML, or badges to achieve a clean and visually appealing layout.
-
-Ensure that:
-
-The skills appear in a single line or horizontal format
-The formatting is compatible with GitHub README rendering
-The design looks professional and well-organized
-
-
-<h1 align="center">Hi 👋, I'm Udesha</h1>
-<h3 align="center">A frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAe/programmer.png">
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udesha-sms&label=Profile%20views&color=0e75b6&style=flat" alt="udesha-sms" /> </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udesha-sms&show_icons=true&locale=en" alt="udesha-sms" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udesha-sms&" alt="udesha-sms" /></p>
-
-Your current setup is actually already horizontal, but it can look cluttered because everything is tightly packed with inconsistent spacing.
-
-A cleaner, more professional approach is to organize the skills into a centered horizontal grid with consistent spacing. Here are two improved options you can drop into your README:
-
-✅ Option 1: Clean Horizontal Icon Row (Recommended)
-This keeps your icons but aligns them nicely and wraps cleanly across screen sizes.
 
 <h3 align="left">Languages and Tools:</h3>
 
